@@ -1,4 +1,12 @@
-### Hi there 👋
+<a href="#">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=mu7220&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
+</a>
+
+### Hi there 👋 I’m Neko Qiqi
+- 📫 Email: lingqiqi233@gmail.com
+- 📱 device: Redmi Note12 Turbo/POCO f5
+- ❤️ like: Light blue haired cat girl (X
+- 🌱 learn: kotlin/c/c++, and learn software engineering
 
 <!--
 **mu7220/mu7220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
