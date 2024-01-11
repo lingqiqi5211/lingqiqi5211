@@ -2,10 +2,10 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mu7220&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
 </a>
 
-### Hi there 👋 I’m Neko Qiqi
+### Hi there 👋 I’m Neko Qiqi(太卜司 · 柒柒)
 - 📫 Email: lingqiqi233@gmail.com
-- 📱 Device: Redmi Note12 Turbo/POCO f5
-- ❤️ Like: Light blue haired cat girl (X
+- 📱 Device: Redmi Note12 Turbo/POCO f5、Redmi Note8 Pro
+- ❤️ Like: Brown haired cat girl & Acting cute (X
 - 🌱 Learn: kotlin/c/c++, and learn software engineering
 
 <!--
