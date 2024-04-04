@@ -6,7 +6,7 @@ I like cute cat girls (currently Neko Qiqi has found a favorite one, named yaoya
 
 ## Qiqi's Stats
 
-[![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=mu7220&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=mu7220&include_all_commits=true&show_icons=true&theme=skyblue&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 ![mu7220](https://count.getloli.com/get/@nekoqiqi)
 
 ## Qiqi's Email
