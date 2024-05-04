@@ -4,6 +4,11 @@ I am Neko Qiqi.
 
 I like cute cat girls (currently Neko Qiqi has found a favorite one, named yaoyao)
 
+You can donate to Qiqi through Afdian platform. Qiqi will thank everyone who donates to Qiqi and help Qiqi do more things she likes.
+
+Afdian: https://afdian.net/a/ling_qiqi_nya
+
+
 ## Qiqi's Stats
 
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=mu7220&include_all_commits=true&show_icons=true&theme=skyblue&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
