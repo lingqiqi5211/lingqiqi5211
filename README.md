@@ -1,8 +1,8 @@
 ## Self Introduction
 
-I am Neko Qiqi.
+I am Ling Qiqi.
 
-I like cute cat girls (currently Neko Qiqi has found a favorite one, named yaoyao)
+I like cute cat girls
 
 You can donate to Qiqi through Afdian platform. Qiqi will thank everyone who donates to Qiqi and help Qiqi do more things she likes.
 
@@ -20,8 +20,8 @@ lingqiqi233@gmail.com
 ## Qiqi's Device
 
 - 📱Redmi Note12 Turbo/POCO f5
-- 📱Redmi Note8 Pro
-- 📱Google Pixel5
+- 📱Xiaomi Pad 7
+- 📱Google Pixel 5
 - 💻IPASONJN15
 
 ## The programming language Qiqi knows how to use
