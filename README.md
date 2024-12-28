@@ -1,21 +1,20 @@
 ## Self Introduction
 
-I am Ling Qiqi.
+这里是铃柒柒个人的小天地
+一切的提交均以学习为主，柒柒是菜菜，~~一点都不会~~
 
-I like cute cat girls
+对了，忘了自我介绍了（
+铃柒柒是一只猫娘(粮)，喜欢没有吵闹的环境
+欢迎友好交流喵~
 
-You can donate to Qiqi through Afdian platform. Qiqi will thank everyone who donates to Qiqi and help Qiqi do more things she likes.
-
-Afdian: https://afdian.net/a/ling_qiqi_nya
+Ciallo～(∠・ω＜)⌒☆
+~~咱还是个柚子厨喵（自信~~
 
 
 ## Qiqi's Stats
 
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=lingqiqi5211&include_all_commits=true&show_icons=true&theme=skyblue&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 ![lingqiqi5211](https://count.getloli.com/get/@nekoqiqi)
-
-## Qiqi's Email
-lingqiqi233@gmail.com
 
 ## Qiqi's Device
 
@@ -24,22 +23,8 @@ lingqiqi233@gmail.com
 - 📱Google Pixel 5
 - 💻IPASONJN15
 
-## The programming language Qiqi knows how to use
+## Programming Language
 
-- Kotlin
-- Python
+![Kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
 
-<!--
-**mu7220/mu7220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
