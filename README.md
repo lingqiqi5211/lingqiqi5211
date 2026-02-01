@@ -8,7 +8,7 @@
 
 ## Qiqi's Stats
 
-![Qiqi's Readme Card](https://github-readme-stats.vercel.app/api?username=lingqiqi5211&show_icons=truee)
+![Qiqi's Readme Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lingqiqi5211&theme=solarized_dark)
 ![lingqiqi5211](https://count.getloli.com/get/@nekoqiqi)
 
 ## Qiqi's Device
