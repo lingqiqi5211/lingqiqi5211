@@ -13,10 +13,11 @@
 
 ## Qiqi's Device
 
-- 📱Redmi Note12 Turbo/POCO f5
-- 📱Xiaomi Pad 7
-- 📱Google Pixel 5
-- 💻IPASONJN15
+- 📱 Redmi Note 12 Turbo/POCO f5
+- 📱 Xiaomi Pad 7
+- 📱 Google Pixel 5
+- ⌚️ Xiaomi Watch 2 Pro
+- 💻 ~ non ~ (计划换新)
 
 ## Programming Language
 
