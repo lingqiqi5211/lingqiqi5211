@@ -14,9 +14,9 @@
 ## Qiqi's Device
 
 - 📱 Redmi Note 12 Turbo/POCO f5
+- 📱 Redmi K90 Ultra
 - 📱 Xiaomi Pad 7
 - 📱 Google Pixel 5
-- ⌚️ Xiaomi Watch 2 Pro
 - 💻 ~ non ~ (计划换新)
 
 ## Programming Language
